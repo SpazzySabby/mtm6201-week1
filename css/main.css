@@ -1,0 +1,20 @@
+/* Main Body Styling */
+
+body {
+    background-color: lightskyblue;
+}
+h1 {
+    background-color: royalblue;
+}
+
+dt {
+    font-size: 1.15rem;
+}
+
+dd {
+    margin-left: 0;
+}
+
+img {
+    max-width: 150px;
+}
