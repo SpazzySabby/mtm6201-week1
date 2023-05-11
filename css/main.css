@@ -6,7 +6,11 @@ body {
 h1 {
     background-color: royalblue;
 }
+/* Detailed List Styling */
 
+dl {
+    background-color: royalblue;
+}
 dt {
     font-size: 1.15rem;
 }
@@ -17,4 +21,5 @@ dd {
 
 img {
     max-width: 150px;
+    float: left;
 }
