@@ -10,16 +10,22 @@
 body {
     background-color: lightskyblue;
 }
+
 h1 {
     background-color: royalblue;
+    padding-left: 10px;
 }
+
 /* Detailed List Styling */
 
 dl {
     background-color: royalblue;
+    padding-left: 10px;
+    clear: both;
 }
 dt {
     font-size: 1.15rem;
+    font-weight: bold;
 }
 
 dd {
@@ -29,6 +35,9 @@ dd {
 /* Image Styling and Float */
 
 img {
-    max-width: 150px;
+    padding-right: 10px;
+    width: 200px;
     float: left;
+    clear: both;
 }
+
