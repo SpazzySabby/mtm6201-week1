@@ -9,6 +9,7 @@
 
 body {
     background-color: lightskyblue;
+    font-family: 'Open Sans', sans-serif;
 }
 
 h1 {
@@ -17,7 +18,7 @@ h1 {
 }
 
 p {
-    line-height: 1.5em;
+    line-height: 2;
 }
 
 /* Detailed List Styling */
