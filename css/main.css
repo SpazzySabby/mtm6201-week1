@@ -1,6 +1,7 @@
 /* Main Body Styling */
 
 .wrapper {
+    max-width: 90%;
     margin-left: auto;
     margin-right: auto;  
     padding: 5px;
@@ -13,6 +14,10 @@ body {
 h1 {
     background-color: royalblue;
     padding-left: 10px;
+}
+
+p {
+    line-height: 1.5em;
 }
 
 /* Detailed List Styling */
